@@ -2,7 +2,9 @@
 ## About This Project
 
 The point of this project was to learn React and Tailwind following different instructions.  
+
 We had to follow a mock-up.  
+
 Instructions =>  
 
 The COGIP is a company which we don't know a lot about apart that they produce Jean-Michel toys and that they are serious workers check. They also have incredible employees within their rank. 
