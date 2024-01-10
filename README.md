@@ -1,8 +1,13 @@
-# React + Vite + Tailwindcss + Php + Mysql
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About This Project
 
-Currently, two official plugins are available:
+The point of this project was to learn React following different instructions.  
+This is just a bunch of simple exercises.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Built With  
+
+* [![React][React.js]][React-url]
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
