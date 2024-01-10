@@ -4,6 +4,7 @@
 The point of this project was to learn React and Tailwind following different instructions.  
 We had to follow a mock-up.  
 Instructions =>  
+
 The COGIP is a company which we don't know a lot about apart that they produce Jean-Michel toys and that they are serious workers check. They also have incredible employees within their rank. 
 
 Jean-Christian Ranu works in accounting at the COGIP. He has been using an old, ugly and incomplete software for years, making him go between it and excels sheet. Jean-Christian like paella, crosswords and his coworker Muriel Perrache. 
